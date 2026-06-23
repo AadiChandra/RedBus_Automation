@@ -1,0 +1,4 @@
+stepDefinations\A_HomePage.class
+cucumberOptions\TestRunner.class
+stepDefinations\B_FiltersPrice.class
+hooks\ScenarioHook.class
